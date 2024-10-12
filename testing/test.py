@@ -140,12 +140,10 @@ if __name__ == "__main__":
                         elif args.silent == False: print("[VULN] "+res)
                         if args.o: outfile.write(res+"\n")
                         vulnerable += 1
+
                         # find location data and output to json
                         end_idx = res.index(':')
-                        payload = {'key': '7A31A4409EB96A8C6966833F42B5E570', 'ip': res[:end_idx], 'format': 'json'}
-
-                        end_idx = res.index(':')
-                        payload = {'key': '7A31A4409EB96A8C6966833F42B5E570', 'ip': res[:end_idx], 'format': 'json'}
+                        payload = {'key': 'D1D7E9FE96741E3407B1E180410BA7AE', 'ip': res[:end_idx], 'format': 'json'}
                         api_result = requests.get('https://api.ip2location.io/', params=payload)
                         data = json.loads(api_result.text)
                         json_data["locations"].append({"ip":"http://"+str(res)+"/cgi-bin/guestimage.html", "lat":data["latitude"], "long":data["longitude"]})
@@ -183,7 +181,7 @@ if __name__ == "__main__":
     except Exception as e:
         print(sys.exc_info()[0].__name__)
     finally:
-        dump_filename = 'coords.json'
+        dump_filename = 'india.json'
 
         with open(dump_filename, 'w') as json_file:      
             json.dump(json_data, json_file, indent=4)
