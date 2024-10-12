@@ -1,0 +1,49 @@
+{
+    "locations": [
+        {
+            "ip": "http://135.129.85.89:8099/cgi-bin/guestimage.html",
+            "lat": 45.22131,
+            "long": -85.02499
+        },
+        {
+            "ip": "http://76.189.43.216:80/cgi-bin/guestimage.html",
+            "lat": 41.09978,
+            "long": -80.64952
+        },
+        {
+            "ip": "http://108.11.186.241:8080/cgi-bin/guestimage.html",
+            "lat": 36.819,
+            "long": -76.27508
+        },
+        {
+            "ip": "http://71.249.123.149:1023/cgi-bin/guestimage.html",
+            "lat": 40.71319,
+            "long": -74.00607
+        },
+        {
+            "ip": "http://174.131.235.1:80/cgi-bin/guestimage.html",
+            "lat": 40.81914,
+            "long": -96.71072
+        },
+        {
+            "ip": "http://68.196.168.56:8086/cgi-bin/guestimage.html",
+            "lat": 40.76413,
+            "long": -73.51897
+        },
+        {
+            "ip": "http://67.80.71.231:8094/cgi-bin/guestimage.html",
+            "lat": 40.95982,
+            "long": -72.99621
+        },
+        {
+            "ip": "http://108.185.4.86:9009/cgi-bin/guestimage.html",
+            "lat": 33.81696,
+            "long": -118.03729
+        },
+        {
+            "ip": "http://75.132.151.80:806/cgi-bin/guestimage.html",
+            "lat": 38.53414,
+            "long": -89.98889
+        }
+    ]
+}

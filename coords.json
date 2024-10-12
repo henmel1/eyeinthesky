@@ -1,0 +1,19 @@
+{
+    "locations": [
+        {
+            "ip": "http://71.68.64.173:8001/cgi-bin/guestimage.html",
+            "lat": 35.67103,
+            "long": -80.47421
+        },
+        {
+            "ip": "http://86.81.238.170:8009/cgi-bin/guestimage.html",
+            "lat": 51.44103,
+            "long": 5.47804
+        },
+        {
+            "ip": "http://68.146.4.93:80/cgi-bin/guestimage.html",
+            "lat": 51.05074,
+            "long": -114.07595
+        }
+    ]
+}
