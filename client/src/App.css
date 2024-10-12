@@ -1,0 +1,12 @@
+body, html, #root {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.marker {
+  background-image: url('https://img.freepik.com/premium-vector/computer-web-cam-with-standing-clipart_251822-508.jpg');
+  background-size: cover;
+  border-radius: 50%;
+  cursor: pointer;
+}
