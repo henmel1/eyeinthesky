@@ -1,0 +1,95 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  position: sticky;
+  top: 0;
+  align-items: center;
+  background-color: #333;
+  color: #fff;
+  height: 7vh; /* Thin navbar */
+  padding: 0 20px; /* Add padding for some spacing */
+  font-family: 'Roboto', sans-serif; /* Use a Google-like font */
+  z-index: 1000; /* Ensure it's above other content */
+}
+
+/* Remove borders from sections */
+.navbar-left,
+.navbar-center,
+.navbar-right {
+  display: flex;
+  align-items: center;
+  padding: 0px; /* Add padding for spacing */
+}
+
+/* Center text styling */
+.navbar-center {
+  flex-basis: 33.33%; /* Each section takes up a third */
+  justify-content: center; /* Center the text within the section */
+  text-align: center;
+  font-size: 1.5rem; /* Bigger text */
+  font-weight: bold;
+}
+
+/* Navbar left and right alignment */
+.navbar-left {
+  flex-basis: 14%; /* Each section takes up a third */
+  justify-content: flex-start; /* Align content to the left */
+}
+
+.navbar-mid-left {
+  flex-basis: 19.33%; /* Each section takes up a third */
+  justify-content: flex-end; /* Align content to the right */
+  flex-direction: column; /* Stack items vertically */
+  align-items: flex-end; /* Align items to the right edge of the section */
+  text-align: left; /* Align text inside each item to the right */
+}
+
+.navbar-mid-right {
+  flex-basis: 23%; /* Each section takes up a third */
+  justify-content: flex-end; /* Align content to the right */
+  flex-direction: column; /* Stack items vertically */
+  align-items: flex-end; /* Align items to the right edge of the section */
+  text-align: right; /* Align text inside each item to the right */
+}
+
+.navbar-right {
+  flex-basis: 10.33%; /* Each section takes up a third */
+  justify-content: flex-end; /* Align content to the right */
+  flex-direction: column; /* Stack items vertically */
+  align-items: flex-end; /* Align items to the right edge of the section */
+  text-align: right; /* Align text inside each item to the right */
+}
+
+/* Adjusting the link or button styles within the navbar */
+.navbar a {
+  color: #fff;
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+/* Optional: Hover effect for links */
+.navbar a:hover {
+  text-decoration: underline;
+}
+
+.navbar-right p {
+  margin: 0;
+  padding: 0; /* Adjust padding if needed */
+}
+
+/* Styling for the satellite toggle button */
+.satellite-toggle-button {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  cursor: pointer;
+  padding: 3px 8px;
+  margin-top: 0px; /* Adjust margin for spacing */
+  font-size: 0.9rem;
+}
+
+/* Optional: Add hover effect for the satellite button */
+.satellite-toggle-button:hover {
+  background-color: #f0f0f0;
+  border-color: #888;
+}
