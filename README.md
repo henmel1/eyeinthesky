@@ -1,4 +1,4 @@
-# hack-harvard
+# Eye In The Sky
 
 ## Inspiration
 Our team was initially inspired to create this project by the concerningly high number of insecure cameras around the world. We wanted to raise awareness on how easily accessible these cameras are and their prevalence globally.
