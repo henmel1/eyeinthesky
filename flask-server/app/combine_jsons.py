@@ -13,28 +13,26 @@ unique_locations = {}
 
 # Helper function to add locations to the dictionary
 def add_locations(data):
-    if isinstance(data, dict) and "locations" in data:
-        for entry in data["locations"]:
-            if "url" in entry:
-                url = entry["url"]
-                # Add the entry if the URL is not already present
-                if url not in unique_locations:
-                    unique_locations[url] = {
-                        "url": url,
-                        "lat": entry["lat"],
-                        "long": entry["long"]
-                    }
-    if isinstance(data, dict) and "coords" in data:
-        for entry in data["coords"]:
-            if "url" in entry:
-                url = entry["url"]
-                # Add the entry if the URL is not already present
-                if url not in unique_locations:
-                    unique_locations[url] = {
-                        "url": url,
-                        "lat": entry["lat"],
-                        "long": entry["long"]
-                    }
+    for entry in data:
+        if "url" in entry:
+            url = entry["url"]
+            # Add the entry if the URL is not already present
+            if url not in unique_locations:
+                unique_locations[url] = {
+                    "url": url,
+                    "lat": entry["lat"],
+                    "long": entry["long"]
+                }
+    for entry in data:
+        if "url" in entry:
+            url = entry["url"]
+            # Add the entry if the URL is not already present
+            if url not in unique_locations:
+                unique_locations[url] = {
+                    "url": url,
+                    "lat": entry["lat"],
+                    "long": entry["long"]
+                }
 
 # Add data from both files
 add_locations(data1)

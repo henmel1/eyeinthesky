@@ -1,0 +1,379 @@
+{
+    "locations": [
+        {
+            "url": "http://166.149.155.73:7001/cgi-bin/guestimage.html",
+            "lat": 39.2904,
+            "long": -76.6122
+        },
+        {
+            "url": "http://174.55.245.29:7001/cgi-bin/guestimage.html",
+            "lat": 40.4848,
+            "long": -78.0103
+        },
+        {
+            "url": "http://118.174.196.20:2220/cgi-bin/guestimage.html",
+            "lat": 7.8906,
+            "long": 98.3981
+        },
+        {
+            "url": "http://80.229.150.23:8081/",
+            "lat": 53.383,
+            "long": -1.4659
+        },
+        {
+            "url": "http://62.238.234.186:50007/cgi-bin/guestimage.html",
+            "lat": 51.7325,
+            "long": 3.775
+        },
+        {
+            "url": "http://217.254.245.198/cgi-bin/guestimage.html",
+            "lat": 49.6064,
+            "long": 6.5437
+        },
+        {
+            "url": "http://24.129.178.50:46/view/viewer_index.shtml?id=6",
+            "lat": 28.079,
+            "long": -82.5268
+        },
+        {
+            "url": "http://5.2.179.96:81/cgi-bin/guestimage.html",
+            "lat": 46.5425,
+            "long": 24.5575
+        },
+        {
+            "url": "http://85.220.149.7/cgi-bin/guestimage.html",
+            "lat": 50.1155,
+            "long": 8.6842
+        },
+        {
+            "url": "http://90.154.229.62:82/cgi-bin/guestimage.html",
+            "lat": 42.6858,
+            "long": 26.3292
+        },
+        {
+            "url": "http://217.112.107.194:81/cgi-bin/guestimage.html",
+            "lat": 42.7685,
+            "long": 10.8775
+        },
+        {
+            "url": "http://72.134.137.135:8081/",
+            "lat": 32.6566,
+            "long": -114.4042
+        },
+        {
+            "url": "http://84.228.119.240:8011/cgi-bin/guestimage.html",
+            "lat": 32.0809,
+            "long": 34.7806
+        },
+        {
+            "url": "http://166.168.78.197:81/cgi-bin/guestimage.html",
+            "lat": 36.154,
+            "long": -95.9928
+        },
+        {
+            "url": "http://195.191.253.193/control/userimage.html",
+            "lat": 47.1896,
+            "long": 15.5754
+        },
+        {
+            "url": "http://94.139.67.154:50000/view/viewer_index.shtml?id=2536",
+            "lat": 59.5605,
+            "long": 7.3567
+        },
+        {
+            "url": "http://88.101.186.201:8081/",
+            "lat": 49.8347,
+            "long": 18.282
+        },
+        {
+            "url": "http://195.202.55.115:8888/control/userimage.html",
+            "lat": 48.573,
+            "long": 7.8152
+        },
+        {
+            "url": "http://31.27.211.243:81/cgi-bin/guestimage.html",
+            "lat": 43.7163,
+            "long": 13.2088
+        },
+        {
+            "url": "http://157.125.178.74:8090/view/viewer_index.shtml?id=12366",
+            "lat": 51.5085,
+            "long": -0.1257
+        },
+        {
+            "url": "http://62.40.153.122:8000/view/viewer_index.shtml?id=2104",
+            "lat": 48.0978,
+            "long": 16.2348
+        },
+        {
+            "url": "http://153.156.235.87/cgi-bin/guestimage.html",
+            "lat": 35.4333,
+            "long": 139.65
+        },
+        {
+            "url": "http://77.93.27.71:8888/cgi-bin/guestimage.html",
+            "lat": 56.946,
+            "long": 24.1059
+        },
+        {
+            "url": "http://96.40.232.189/view/viewer_index.shtml?id=245",
+            "lat": 44.1539,
+            "long": -87.5692
+        },
+        {
+            "url": "http://78.155.22.124:3392/view/viewer_index.shtml?id=41109",
+            "lat": 46.2919,
+            "long": 7.5356
+        },
+        {
+            "url": "http://195.101.244.201:8085/cgi-bin/guestimage.html",
+            "lat": 48.8854,
+            "long": 2.4348
+        },
+        {
+            "url": "http://77.89.48.24:89/cgi-bin/guestimage.html",
+            "lat": 44.262,
+            "long": 12.3481
+        },
+        {
+            "url": "http://50.196.159.227:57357/view/viewer_index.shtml?id=1351",
+            "lat": 38.4405,
+            "long": -122.7144
+        },
+        {
+            "url": "http://79.3.41.70/view/viewer_index.shtml?id=1394",
+            "lat": 45.4643,
+            "long": 9.1895
+        },
+        {
+            "url": "http://86.121.159.12/cgi-bin/guestimage.html",
+            "lat": 46.7667,
+            "long": 23.6
+        },
+        {
+            "url": "http://188.123.114.79:8008/view/viewer_index.shtml?id=168",
+            "lat": 48.8449,
+            "long": 17.2264
+        },
+        {
+            "url": "http://185.33.59.71/cgi-bin/guestimage.html",
+            "lat": 44.1958,
+            "long": 10.9352
+        },
+        {
+            "url": "http://50.75.137.2/cgi-bin/guestimage.html",
+            "lat": 44.1204,
+            "long": -69.24
+        },
+        {
+            "url": "http://166.151.98.221:7001/cgi-bin/guestimage.html",
+            "lat": 39.9524,
+            "long": -75.1636
+        },
+        {
+            "url": "http://37.182.240.202:82/cgi-bin/guestimage.html",
+            "lat": 45.0705,
+            "long": 7.6868
+        },
+        {
+            "url": "http://87.140.122.56/view/viewer_index.shtml?id=5029",
+            "lat": 51.5149,
+            "long": 7.466
+        },
+        {
+            "url": "http://166.151.100.205:7001/cgi-bin/guestimage.html",
+            "lat": 39.9524,
+            "long": -75.1636
+        },
+        {
+            "url": "http://84.247.236.46:240/cgi-bin/guestimage.html",
+            "lat": 46.3766,
+            "long": 11.6594
+        },
+        {
+            "url": "http://173.164.112.205/view/viewer_index.shtml?id=4657",
+            "lat": 45.5234,
+            "long": -122.6762
+        },
+        {
+            "url": "http://89.16.193.81/control/userimage.html",
+            "lat": 46.6841,
+            "long": 13.2528
+        },
+        {
+            "url": "http://125.236.232.93:9001/cgi-bin/guestimage.html",
+            "lat": -36.8485,
+            "long": 174.7635
+        },
+        {
+            "url": "http://109.233.191.130:8080/",
+            "lat": 44.804,
+            "long": 20.4651
+        },
+        {
+            "url": "http://78.9.31.140/view/viewer_index.shtml?id=354",
+            "lat": 52.2298,
+            "long": 21.0118
+        },
+        {
+            "url": "https://185.5.169.35/cgi-bin/guestimage.html",
+            "lat": 50.1155,
+            "long": 8.6842
+        },
+        {
+            "url": "http://80.11.182.119/view/viewer_index.shtml?id=24858",
+            "lat": 48.8534,
+            "long": 2.3488
+        },
+        {
+            "url": "http://80.75.114.19/#view",
+            "lat": 47.276,
+            "long": 8.914
+        },
+        {
+            "url": "http://62.214.4.38/view/view.shtml?id=13102&imagepath=%2Fmjpg%2Fvideo.mjpg&size=1",
+            "lat": 53.5507,
+            "long": 9.993
+        },
+        {
+            "url": "http://77.242.135.139:8082/cgi-bin/guestimage.html",
+            "lat": 45.4643,
+            "long": 9.1895
+        },
+        {
+            "url": "http://46.14.203.136:8080/cgi-bin/guestimage.html",
+            "lat": 47.3667,
+            "long": 8.55
+        },
+        {
+            "url": "http://193.213.211.188/view/index.shtml",
+            "lat": 59.9127,
+            "long": 10.7461
+        },
+        {
+            "url": "http://93.147.152.86/cgi-bin/guestimage.html",
+            "lat": 40.9234,
+            "long": 9.498
+        },
+        {
+            "url": "http://91.133.105.85:50050/cgi-bin/guestimage.html",
+            "lat": 47.3914,
+            "long": 12.6364
+        },
+        {
+            "url": "http://92.60.198.150:81/cgi-bin/guestimage.html",
+            "lat": 51.6231,
+            "long": -8.8706
+        },
+        {
+            "url": "http://178.188.92.76:90/control/userimage.html",
+            "lat": 47.4143,
+            "long": 9.7419
+        },
+        {
+            "url": "http://89.130.212.3:1229/view/viewer_index.shtml?id=892",
+            "lat": 43.2454,
+            "long": -5.5629
+        },
+        {
+            "url": "http://109.164.203.165/cgi-bin/guestimage.html",
+            "lat": 47.5584,
+            "long": 7.5733
+        },
+        {
+            "url": "http://71.24.79.73:8082/view/viewer_index.shtml?id=157",
+            "lat": 39.5732,
+            "long": -74.2315
+        },
+        {
+            "url": "http://80.147.171.247:8080/",
+            "lat": 49.4891,
+            "long": 8.4669
+        },
+        {
+            "url": "http://89.106.143.18:122/cgi-bin/guestimage.htm",
+            "lat": 52.1624,
+            "long": -7.1524
+        },
+        {
+            "url": "http://213.184.45.232/cgi-bin/guestimage.html",
+            "lat": 59.437,
+            "long": 24.7535
+        },
+        {
+            "url": "http://166.151.100.208:7001/cgi-bin/guestimage.html",
+            "lat": 39.9524,
+            "long": -75.1636
+        },
+        {
+            "url": "http://213.98.123.127:8050/cgi-bin/guestimage.html",
+            "lat": 40.4165,
+            "long": -3.7026
+        },
+        {
+            "url": "http://68.71.163.28:1892/view/viewer_index.shtml?id=130323",
+            "lat": 35.5849,
+            "long": -80.8101
+        },
+        {
+            "url": "http://213.98.123.127:1111/cgi-bin/guestimage.html",
+            "lat": 40.4165,
+            "long": -3.7026
+        },
+        {
+            "url": "http://166.141.128.53:7002/cgi-bin/guestimage.html",
+            "lat": 39.2681,
+            "long": -84.4133
+        },
+        {
+            "url": "http://79.8.52.211:82/cgi-bin/guestimage.html",
+            "lat": 44.6948,
+            "long": 12.1819
+        },
+        {
+            "url": "http://46.19.50.118:82/cgi-bin/guestimage.html",
+            "lat": 41.8919,
+            "long": 12.5113
+        },
+        {
+            "url": "http://78.31.82.246/view/viewer_index.shtml?id=136091",
+            "lat": 62.5675,
+            "long": 7.6871
+        },
+        {
+            "url": "http://217.14.231.89:81/control/userimage.html",
+            "lat": 47.4464,
+            "long": 12.3922
+        },
+        {
+            "url": "https://archive.ph/2023.09.01-094643/http://184.151.251.207/cgi-bin/guestimage.html",
+            "lat": 45.3747,
+            "long": -75.5647
+        },
+        {
+            "url": "http://185.146.206.159/cgi-bin/guestimage.html",
+            "lat": 47.5182,
+            "long": 10.2826
+        },
+        {
+            "url": "http://116.121.216.151:8080/",
+            "lat": 37.7415,
+            "long": 127.0474
+        },
+        {
+            "url": "http://74.113.182.246:9600/view/viewer_index.shtml?id=179",
+            "lat": 49.6333,
+            "long": -102.2677
+        },
+        {
+            "url": "http://96.66.39.30:8090/cgi-bin/guestimage.html",
+            "lat": 42.2411,
+            "long": -83.613
+        },
+        {
+            "url": "http://195.101.244.201:8087/cgi-bin/guestimage.html",
+            "lat": 48.8854,
+            "long": 2.4348
+        }
+    ]
+}
